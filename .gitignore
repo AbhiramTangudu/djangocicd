@@ -1,1 +1,9 @@
 venv/
+__pcache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
